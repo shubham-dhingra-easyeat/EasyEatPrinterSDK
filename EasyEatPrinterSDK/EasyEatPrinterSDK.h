@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "PrinterManager.h"
 //! Project version number for EasyEatPrinterSDK.
 FOUNDATION_EXPORT double EasyEatPrinterSDKVersionNumber;
 
