@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "EnumTypeDef.h"
 
+
 /*!
  图片设置
  Bitmap settings

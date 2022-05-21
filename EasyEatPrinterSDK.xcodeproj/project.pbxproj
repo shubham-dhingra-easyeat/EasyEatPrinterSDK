@@ -119,8 +119,6 @@
 		69BD49F62836561A005293E0 /* PIFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIFactory.h; sourceTree = "<group>"; };
 		69BD49F72836561A005293E0 /* PinCmdFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PinCmdFactory.h; sourceTree = "<group>"; };
 		69BD49F82836561A005293E0 /* PrinterInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrinterInterface.h; sourceTree = "<group>"; };
-		69BD4A2928365A2E005293E0 /* libRTPrinterSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libRTPrinterSDK.a; path = "../../../Downloads/libRTPrinterSDKV4.15.25 2/Sdk/libRTPrinterSDK.a"; sourceTree = "<group>"; };
-		69BD4A2E28365B49005293E0 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/libz.tbd; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -229,8 +227,6 @@
 			children = (
 				6912476C28378CB30048CD35 /* libz.tbd */,
 				694FEE6028365C4500D98503 /* CoreBluetooth.framework */,
-				69BD4A2E28365B49005293E0 /* libz.tbd */,
-				69BD4A2928365A2E005293E0 /* libRTPrinterSDK.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
